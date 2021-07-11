@@ -12,7 +12,8 @@ you can also go in edit or remove item and click save button again and it will r
 
 Added events will be saved to local storage so if page is refreshed items will still show on scheduler  and will still be able to modify items if needed.
 
+Icons have been added to the save function as a lock, clock for the time, and a schedule at top header.
 
-Tru for yourself
+Try for yourself
 
 https://xtrent777x.github.io/day-day/
